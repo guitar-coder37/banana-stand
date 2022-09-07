@@ -1,0 +1,22 @@
+Here is a basic foundation/skeleton of how instructions could be handled within a .txt file
+
+Instructions on banana bread:
+
+1. Pre-heat oven at 350 degrees
+2. While oven is warming up, prepare and butter a 8 x 4 inch loaf pan
+3. Mash bananas and add butter
+4. Stir in a mixing bowl, and mash ripe bananas with fork until smooth
+5. Stir melted butter into the mashed bananas
+6. Mix in the remaining ingredients:
+  - baking soda
+  - salt
+  - egg
+  - vanilla extract
+  - flour
+  
+  
+7. Pour batter into the loaf pan
+8. Bake for 55-65 minutes at 350 degress
+9. Cool and serve
+
+Banana bread is done!!
